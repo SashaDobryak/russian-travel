@@ -6,7 +6,7 @@
   padding: 0 48px;
 }
 
-@media (max-width : 800px) {
+@media (max-width: 800px) {
   .photo-grid {
     margin-top: 88px;
     gap: 16px;
@@ -14,7 +14,7 @@
   }
 }
 
-@media (max-width : 425px) {
+@media (max-width: 425px) {
   .photo-grid {
     margin-top: 64px;
     gap: 12px;
