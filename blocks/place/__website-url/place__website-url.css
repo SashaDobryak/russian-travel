@@ -7,13 +7,6 @@
   color: #AAAAAA;
 }
 
-@media (max-width: 800px) {
-  .place__website-url {
-   font-size: 12px;
-   line-height: 12px;
-   }
-}
-
 @media (max-width: 425px) {
   .place__website-url {
     padding: 0 16px;

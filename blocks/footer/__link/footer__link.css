@@ -7,7 +7,11 @@
   line-height: 1.12;
 }
 
-@media (max-width: 625px) {
+.footer__link:hover {
+  color: blue;
+}
+
+@media (max-width: 712px) {
   .footer__link {
     font-size: 24px;
     line-height: 24px;

@@ -8,6 +8,10 @@
   margin-top: 12px;
 }
 
+.place__website-link:hover {
+  color: blue;
+}
+
 @media (max-width: 425px) {
  .place__website-link {
    padding: 0 16px;
