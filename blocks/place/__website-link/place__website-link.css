@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website-link {
   color: #FFFFFF;
   font-weight: normal;
   font-style: normal;
@@ -9,7 +9,7 @@
 }
 
 @media (max-width: 425px) {
- .place__website_link {
+ .place__website-link {
    padding: 0 16px;
  }
 }
