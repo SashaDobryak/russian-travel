@@ -1,0 +1,24 @@
+.place__paragraph {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  grid-row-gap: 27px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.63;
+}
+
+@media (max-width: 800px) {
+  .place__paragraph {
+   font-size: 16px;
+   }
+}
+
+@media (max-width: 425px) {
+ .place__paragraph {
+   padding: 0 16px;
+ }
+}

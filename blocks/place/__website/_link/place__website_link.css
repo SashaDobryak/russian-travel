@@ -1,0 +1,15 @@
+.place__website_link {
+  color: #FFFFFF;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  margin-top: 12px;
+}
+
+@media (max-width: 425px) {
+ .place__website_link {
+   padding: 0 16px;
+ }
+}
